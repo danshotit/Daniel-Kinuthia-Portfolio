@@ -143,9 +143,9 @@ const About = () => {
                 isVisible && "animate-fade-in animate-delay-400"
               )}
             >
-              <h3 className="text-base font-semibold mb-4 text-white">What I enjoy working with</h3>
+              <h3 className="text-base font-semibold mb-4 text-white">What I enjoy working on</h3>
               <div className="flex flex-wrap gap-2">
-                {['React', 'Cloud Architecture', 'Video Editing', 'Graphic Design', '3D Design', 'Photography', 'Music Composition'].map((item) => (
+                {['React projects', 'Cloud Architecture', 'Video Editing', 'Graphic Design', '3D Design', 'Photography', 'Music Composition'].map((item) => (
                   <span 
                     key={item}
                     className="px-3 py-1 bg-white/10 text-white rounded-full text-sm"

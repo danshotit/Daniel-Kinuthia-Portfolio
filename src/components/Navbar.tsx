@@ -48,7 +48,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="#"
+            href="https://drive.google.com/file/d/19TFFlUIm8hTdDogRnDdbpqU9-OPgu1mT/view?usp=sharing"
             className="flex items-center gap-2 bg-primary text-primary-foreground rounded-full px-5 py-2 text-sm font-medium transition-all duration-300 hover:shadow-md hover:bg-primary/90"
           >
             <Download size={16} />

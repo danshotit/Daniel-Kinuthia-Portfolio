@@ -75,8 +75,7 @@ const Contact = () => {
             "section-subtitle mb-12 opacity-0",
             isVisible && "animate-fade-in animate-delay-200"
           )}
-        >
-          I'm currently available for freelance work or full-time opportunities. 
+        > 
           If you're interested in working together, feel free to reach out.
         </p>
 
@@ -120,7 +119,7 @@ const Contact = () => {
                   <div>
                     <h4 className="text-base font-medium">Email</h4>
                     <a href="mailto:daniel.kinuthia@example.com" className="text-white/70 hover:text-brand-orange transition-colors">
-                      daniel.kinuthia@example.com
+                      blackandorange91@gmail.com
                     </a>
                   </div>
                 </div>
@@ -142,21 +141,21 @@ const Contact = () => {
                 <h4 className="text-base font-semibold mb-4">Connect with me</h4>
                 <div className="flex gap-4">
                   <a
-                    href="#"
+                    href="https://github.com/danshotit"
                     className="p-3 bg-brand-orange/10 rounded-full hover:bg-brand-orange/20 text-brand-orange transition-colors"
                     aria-label="GitHub"
                   >
                     <Github size={20} />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/daniel-ndirangu-892b47216/"
                     className="p-3 bg-brand-orange/10 rounded-full hover:bg-brand-orange/20 text-brand-orange transition-colors"
                     aria-label="LinkedIn"
                   >
                     <Linkedin size={20} />
                   </a>
                   <a
-                    href="#"
+                    href="https://www.instagram.com/dandirangu/"
                     className="p-3 bg-brand-orange/10 rounded-full hover:bg-brand-orange/20 text-brand-orange transition-colors"
                     aria-label="Camera"
                   >

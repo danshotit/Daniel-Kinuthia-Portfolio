@@ -23,7 +23,7 @@ const Projects = () => {
     {
       id: 1,
       title: 'Project 1',
-      description: 'A brief description of your project. Explain what technologies you used and what problem it solves.',
+      description: 'Quick Studios. Democratize creative expression through availing spaces and equipment.',
       tags: ['React', 'Node.js', 'MongoDB'],
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
       demoUrl: '#',
@@ -33,7 +33,7 @@ const Projects = () => {
     {
       id: 2,
       title: 'Project 2',
-      description: 'Another brief description of your project. Highlight the key features and the technical challenges you overcame.',
+      description: 'Portfolio Website. A professional in a nutshell.',
       tags: ['TypeScript', 'Next.js', 'Tailwind CSS'],
       image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
       demoUrl: '#',
@@ -42,7 +42,7 @@ const Projects = () => {
     {
       id: 3,
       title: 'Project 3',
-      description: 'Your third project description goes here. Explain the architecture and technology choices you made.',
+      description: 'Crash Game. A betting game with a twist.',
       tags: ['React', 'GraphQL', 'Styled Components'],
       image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
       demoUrl: '#',

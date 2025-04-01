@@ -45,7 +45,7 @@ const About = () => {
                 isVisible && "animate-fade-in animate-delay-200"
               )}
             >
-              I hold a degree in Computer Science from <span className="italic-accent">Nairobi University</span>, where I developed a strong foundation in computer science and software engineering principles.
+              Experienced in the media technlogy space, I have honed my skill in building scalable and user-friendly applications majorly in the media space.<span className="italic-accent"></span>
             </p>
             
             <p 
@@ -71,7 +71,7 @@ const About = () => {
                 <div>
                   <h4 className="text-base font-medium">Educational Background</h4>
                   <p className="text-muted-foreground text-sm">
-                    Computer Science, Nairobi University
+                    Software Engineering, Power Learn Project / ALX
                   </p>
                 </div>
               </div>
@@ -83,7 +83,7 @@ const About = () => {
                 <div>
                   <h4 className="text-base font-medium">Professional Experience</h4>
                   <p className="text-muted-foreground text-sm">
-                    Front-end Developer at TechInnovate
+                    Full Stack Developer at Quick Working Solutions
                   </p>
                 </div>
               </div>

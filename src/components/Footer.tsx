@@ -55,7 +55,7 @@ const Footer = () => {
                 {['GitHub', 'LinkedIn', 'Twitter'].map((item) => (
                   <li key={item}>
                     <a 
-                      href="https://www.instagram.com/dandirangu/"
+                      href="https://github.com/danshotit"
                       className="text-muted-foreground hover:text-foreground transition-colors text-sm"
                     >
                       {item}

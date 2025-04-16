@@ -30,7 +30,7 @@ const Contact = () => {
 
     const serviceID = 'service_6faofgc';
     const templateID = 'template_5itn7kg';
-    const publicKey = 't4DbWflwQYNsrYrYS';
+    const publicKey = 'o_mmOy_8trbmo0Xcq';
 
     const templateParams = {
       from_name: formState.name,

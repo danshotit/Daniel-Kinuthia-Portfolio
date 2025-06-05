@@ -134,7 +134,7 @@ const Projects = () => {
                 {/* Links */}
                 <div className="flex gap-3 opacity-0 transform translate-y-4 transition-all duration-300 ease-apple delay-100 group-hover:opacity-100 group-hover:translate-y-0">
                   <a 
-                    href="https://github.com/danshotit" 
+                    href="https://mucii.app/" 
                     className="bg-white text-black px-4 py-2 rounded-full text-sm font-medium flex items-center gap-1 hover:bg-white/90 transition-colors"
                   >
                     Live Demo

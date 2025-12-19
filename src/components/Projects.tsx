@@ -143,7 +143,7 @@ const Projects = () => {
     Live Demo
     <ArrowUpRight size={14} />
   </a>
-{project.githubUrl && (
+{/*{project.githubUrl && (
   <a 
     href={project.githubUrl}
     target="_blank"
@@ -152,7 +152,7 @@ const Projects = () => {
   >
     Code
   </a>
-)}
+)}*/}
 </div>
               </div>
             </div>

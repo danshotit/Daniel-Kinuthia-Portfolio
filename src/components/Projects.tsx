@@ -22,32 +22,33 @@ const Projects = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: 'Project 1',
-      description: 'Quick Studios. Democratize creative expression through availing spaces and equipment.',
-      tags: ['React', 'Node.js', 'MongoDB'],
+      title: 'Mucii App',
+      description: 'A digital service marketplace connecting clients with trusted service providers across Kenya.',
+      tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS', 'Next.js']
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
-      demoUrl: '#',
-      githubUrl: '#',
+      demoUrl: 'https://mucii.app/',
+      githubUrl: 'https://github.com/danshotit/ruiru-house-call-hub',
       featured: true,
     },
     {
-      id: 2,
-      title: 'Project 2',
-      description: 'Portfolio Website. A professional in a nutshell.',
-      tags: ['TypeScript', 'Next.js', 'Tailwind CSS'],
-      image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
-      demoUrl: '#',
-      githubUrl: '#',
-    },
-    {
-      id: 3,
-      title: 'Project 3',
-      description: 'Crash Game. A betting game with a twist.',
-      tags: ['React', 'GraphQL', 'Styled Components'],
-      image: 'https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
-      demoUrl: '#',
-      githubUrl: '#',
-    },
+  id: 2,
+  title: 'Thallo',
+  description: 'Interior design platform with a sleek dashboard to manage projects, clients, and design assets.',
+  tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS'],
+  image: 'https://images.unsplash.com/photo-1581090700227-2e4f3a0a998d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
+  demoUrl: 'https://thallo.co.ke/',
+  githubUrl: 'https://github.com/danshotit/Thallodesign'
+},
+    
+      {
+  id: 3,
+  title: 'Surfspace',
+  description: 'An interior design e-commerce platform to browse, customize, and purchase furniture and décor for your spaces.',
+  tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS', 'E-commerce'],
+  image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
+  demoUrl: 'https://surfspace.co.ke',
+  githubUrl: 'https://github.com/danshotit/craft-living'
+},
   ];
 
   return (

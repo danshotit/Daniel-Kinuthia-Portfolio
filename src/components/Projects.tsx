@@ -35,7 +35,7 @@ const Projects = () => {
   title: 'Thallo',
   description: 'Interior design platform with a sleek dashboard to manage projects, clients, and design assets.',
   tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS'],
-  image: 'https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-mirror-c0JoR_-2x3E',
+  image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
   demoUrl: 'https://thallo.co.ke/',
   githubUrl: 'https://github.com/danshotit/Thallodesign'
 },

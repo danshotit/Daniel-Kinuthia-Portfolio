@@ -24,7 +24,7 @@ const Projects = () => {
       id: 1,
       title: 'Mucii App',
       description: 'A digital service marketplace connecting clients with trusted service providers across Kenya.',
-      tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS', 'Next.js']
+      tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS', 'Next.js'],
       image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
       demoUrl: 'https://mucii.app/',
       githubUrl: 'https://github.com/danshotit/ruiru-house-call-hub',

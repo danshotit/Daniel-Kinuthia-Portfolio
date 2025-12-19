@@ -71,7 +71,7 @@ const About = () => {
                 <div>
                   <h4 className="text-base font-medium">Educational Background</h4>
                   <p className="text-muted-foreground text-sm">
-                    Film and Animation, Multimedia University of Kenya
+                    Film and Animation, Multimedia University of Kenya<br />
                     Software Engineering, Power Learn Project / ALX
                   </p>
                 </div>
@@ -84,8 +84,8 @@ const About = () => {
                 <div>
                   <h4 className="text-base font-medium">Professional Experience</h4>
                   <p className="text-muted-foreground text-sm">
-                    Full Stack Developer at Quick Working Solutions
-                    Managing Director at Danshotit Studios
+                    Full Stack Developer at Quick Working Solutions<br />
+                    Managing Director at Danshotit Studios<br />
                     Founder and MD at Mucii App
                   </p>
                 </div>

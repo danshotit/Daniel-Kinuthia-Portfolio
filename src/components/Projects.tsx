@@ -44,7 +44,7 @@ const Projects = () => {
   id: 3,
   title: 'Surfspace',
   description: 'An interior design e-commerce platform to browse, customize, and purchase furniture and décor for your spaces.',
-  tags: ['React', 'Node.js', 'Supabase', 'TailwindCSS', 'E-commerce'],
+  tags: ['React', 'Node.js', 'Supabase', 'E-commerce'],
   image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1280&q=80',
   demoUrl: 'https://surfspace.co.ke',
   githubUrl: 'https://github.com/danshotit/craft-living'

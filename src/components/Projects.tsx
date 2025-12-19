@@ -138,13 +138,13 @@ const Projects = () => {
                     href="https://mucii.app/" 
                     className="bg-white text-black px-4 py-2 rounded-full text-sm font-medium flex items-center gap-1 hover:bg-white/90 transition-colors"
                   >
-                    Live Demo
+                    {/*Live Demo
                     <ArrowUpRight size={14} />
                   </a>
                   <a 
                     href="https://github.com/danshotit"
                     className="bg-white/20 text-white px-4 py-2 rounded-full text-sm font-medium hover:bg-white/30 transition-colors"
-                  >
+                  >*/}
                     Code
                   </a>
                 </div>

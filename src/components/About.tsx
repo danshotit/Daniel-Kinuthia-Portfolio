@@ -7,11 +7,11 @@ const About = () => {
   const [isVisible, ref] = useAnimateOnScroll(0.1);
 
   const skills = [
+    { name: 'Photography', level: 98 },
     { name: 'React Development', level: 90 },
     { name: 'Cloud Architecture', level: 85 },
     { name: 'Video Editing', level: 82 },
     { name: 'Graphic/3D Design', level: 78 },
-    { name: 'Photography', level: 75 },
     { name: 'Music Composition', level: 80 },
   ];
 
@@ -36,7 +36,7 @@ const About = () => {
                 isVisible && "animate-fade-in animate-delay-100"
               )}
             >
-              A passionate developer dedicated to crafting <span className="italic-accent">elegant solutions</span>
+              A passionate developer and creative technologist dedicated to crafting <span className="italic-accent">elegant solutions</span>
             </h2>
             
             <p 
@@ -71,6 +71,7 @@ const About = () => {
                 <div>
                   <h4 className="text-base font-medium">Educational Background</h4>
                   <p className="text-muted-foreground text-sm">
+                    Film and Animation, Multimedia University of Kenya
                     Software Engineering, Power Learn Project / ALX
                   </p>
                 </div>
@@ -84,6 +85,8 @@ const About = () => {
                   <h4 className="text-base font-medium">Professional Experience</h4>
                   <p className="text-muted-foreground text-sm">
                     Full Stack Developer at Quick Working Solutions
+                    Managing Director at Danshotit Studios
+                    Founder and MD at Mucii App
                   </p>
                 </div>
               </div>

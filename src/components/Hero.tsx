@@ -92,7 +92,7 @@ const Hero = () => {
             )}
           >
             <span className="bg-brand-orange/10 text-brand-orange px-5 py-2.5 rounded-full text-sm md:text-base font-medium tracking-wider">
-              Creative Professional
+              Creative Technologist
             </span>
           </div>
 
